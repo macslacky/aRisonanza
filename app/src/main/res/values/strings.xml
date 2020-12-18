@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">aRisonanza</string>
+    <string name="app_title">Circuito Risonante Seriale</string>
+    <string name="valueR">Valore Rt</string>
+    <string name="valueL">Valore L</string>
+    <string name="valueC">Valore C</string>
+    <string name="valueE">Valore E</string>
+    <string name="btnCalculate">Calcola</string>
+    <string name="valueQ">Valore Q</string>
+    <string name="overVoltage">Sovratensione</string>
+    <string name="valueF">Valore F</string>
+    <string name="imgDescription">Circuito Risonante RLC</string>
+    <string name="leading"> </string>
+
+    <string name="testResist">5</string>
+    <string name="testInduct">20</string>
+    <string name="testCapacit">50</string>
+    <string name="testVoltage">1</string>
+
+    <string-array name="listResist">
+        <item>Ohm</item>
+        <item>Kilo Ohm</item>
+        <item>Mega Ohm</item>
+    </string-array>
+
+    <string-array name="listCapacit">
+        <item>Farad</item>
+        <item>Milli Farad</item>
+        <item>Micro Farad</item>
+        <item>Nano Farad</item>
+        <item>Pico Farad</item>
+    </string-array>
+
+    <string-array name="listInduct">
+        <item>Kilo Henry</item>
+        <item>Henry</item>
+        <item>Milli Henry</item>
+        <item>Micro Henry</item>
+        <item>Nano Henry</item>
+    </string-array>
+
+    <string-array name="listVoltage">
+        <item>Volt</item>
+        <item>Kilo Volt</item>
+        <item>Mega Volt</item>
+    </string-array>
+</resources>

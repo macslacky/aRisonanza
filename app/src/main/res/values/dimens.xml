@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- leading dimension -->
+    <dimen name="dimLeading">5sp</dimen>
+    <!-- title size -->
+    <dimen name="dimTitle">12sp</dimen>
+    <!-- size of values to display -->
+    <dimen name="dimValue">12sp</dimen>
+    <!-- button size -->
+    <dimen name="dimCalculate">15sp</dimen>
+</resources>
